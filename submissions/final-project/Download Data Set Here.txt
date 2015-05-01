@@ -1,0 +1,5 @@
+http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html
+
+All data sets can be downloaded at the above link. The provided annual_0014 zip contains a compilation of the years 2004-2014. 
+
+https://www.dropbox.com/s/oyybsghtowv0v7x/annual_0014.zip?dl=0
